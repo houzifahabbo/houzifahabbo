@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Houzifa</h1>
 <h3 align="center">Backend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=houzifahabbo&label=Profile%20views&color=0e75b6&style=flat" alt="houzifahabbo" /> 
-<img align="right" alt="Programmer" width="300" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<img align="right" alt="Programmer" width="300" src="https://github.com/houzifahabbo/houzifahabbo/assets/96137159/40d037e3-7a60-45b4-8f9d-dbb58c95c63a">
 
 - 🌱 I’m currently learning **Backend development at Re:coded**
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://linkedin.com/in/hozifah hebbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hozifah hebbo" height="30" width="40" /></a>
 <a href="https://discord.gg/hozaifah#4824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hozaifah#4824" height="30" width="40" /></a>
 </p>
